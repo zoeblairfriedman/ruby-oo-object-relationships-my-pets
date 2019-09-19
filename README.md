@@ -41,6 +41,8 @@ A `Dog` and a `Cat` are initialized with a name and an **Owner object**
 - An owner should have the ability to walk all their dogs or feed all their cats, which
 will change the mood of all of their pets of that type to "happy".
 
+![Owner, Dogs and Cats](https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/my-pets/Image_140_Relations_OwnerDogCat.png)
+
 These are just a few hints and guidelines to help you through this lab. This lab
 is extensive and challenging. Rely on the guides here, refer to the previous
 Code Along on object relations, and **read the test output and test files**.
