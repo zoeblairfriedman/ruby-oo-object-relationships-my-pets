@@ -40,7 +40,7 @@ describe Dog do
 
   describe "Class methods" do
     it "knows all the dogs" do
-      Dog.all.include?(@dog)
+      expect(Dog.all).to include(@dog)
     end
   end
 
